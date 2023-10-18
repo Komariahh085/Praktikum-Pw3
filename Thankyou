@@ -1,0 +1,27 @@
+<!DOCTYPE.html>
+<html lang="id">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width", initial-scale=1.0">
+        <title>Document</title>
+        </head>
+        <body>
+        <fieldset style="background-color: beige;">
+        <h2 style="text-align: center;">THANKYOU</h2>
+        <hr>
+        <p>terimakasih sudah memesan pizza ditempat kami,kami telah menerima informasi berikut tentang pesanan anda
+        <h3 style="color= red;">Your Information</h3>
+        <p><b>Nama :</b>Siti komariah</p>
+        <p><b>Alamat :</b>Kp.Cipeundeuy</p>
+        <p><b>No Hp :</b>085772132064</p>
+        <p><b>Email :</b>stkomariah698@gmail.com</p>
+        <p><b>Instruksi pengiriman :</b>bunyikan bel,taruh di pos satpam</p>
+        <h3 style="color: red;">Your pizza</h3>
+        <p><b>Topping :</b>red sauce,mozzarella</p>
+        <p><b>Banyak di pesan :</b>2</p>
+        <hr>
+        <p>this site is for educational purposes only.No pizza will be delivered</p>
+        </fieldset>
+        </body>
+        </html>
+        
