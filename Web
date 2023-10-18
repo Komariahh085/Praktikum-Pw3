@@ -1,0 +1,99 @@
+<!DOCTYPE.html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        </fieldset>
+              <a href="">Home</a>
+              <a href="">Register</a>
+              <a href="">Policy</a>
+              <a href="">About</a>
+              <a href="">Logout</a>
+              </fieldset>
+             
+             <br>
+             <br>
+             
+             <img align="left" src="kamera-canon-eos-850d.jpg" width="150">
+             <table cellpandding="10" width="100">
+                 <tr>
+                     <td>Judul</td>
+                     <td> :Canon-eos</td>
+                     
+                     </tr>
+                     <tr>
+                         <h1>Keterangan</h1>
+                       <p> :Tahun : 2014 </p>
+                       <p> Model : canon-eos-850 </p>
+                       <p> Kondisi : no minus </p>
+                       </td>
+                       
+                       </tr>
+                       <tr>
+                           <td>Jumlah total</td>
+                           <td>Rp.14.000.000</td>
+                           
+                           </tr>
+                           <tr>
+                               <td>Bayar ke</td>
+                               <td>125-234-765-8</td>
+                               
+                               </tr>
+                               </Table>
+                               <label for="Tipe pembayaran :">Tipe pembayaran</label>
+                               <select id=tipe pembayaran>
+                                   <option value="pilih">pilih</option>
+                                   <option value="visa debit">visa debit</option>
+                                   <option value="cod">cod</option>
+                                   <option value="transfer bank">transfer bank</option>
+                                   </select>
+                                   
+                                   <br>
+                                   <br>
+                                   
+                                   <label for="pemilik akun :">pemilik akun</label>
+                                   <input type="text" id="pemilik akun :" >
+                                   
+                                   <br>
+                                   <br>
+                                   
+                                   <label for="Nomor akun :">Nomor akun</label>
+                                   <input type="text" id="Nomor akun :" >
+                                   
+                                   <br>
+                                   <br>
+                                   
+                                   <input type="checkbox" id="kirim ke handphone" name="pilihan1" >
+                                   <label for="kirim ke handphone :">kirim ke handphone</label>
+                                   
+                                   <br>
+                                   
+                                   <input type="checkbox" id="kirim ke email" name="pilihan2" >
+                                   <label for="kirim ke email :">kirim ke email</label>
+                                   
+                                   <br>
+                                   <br>
+                                   
+                                   <div align="center">
+                                       <label for="kirim ke handphone :">kirim ke handphone</label>
+                                       <input type="text" id="kirim ke handphone :" >
+                                       
+                                       <br>
+                                       <br>
+                                       
+                                       <label for="kirim ke email :">kirim ke email</label>
+                                       <input type="text" id="kirim ke email :" >
+                                     
+                                     <br>
+                                     <br>
+                                     <br>
+                                     
+                                     <input type="submit" value="pay using quidlink">
+                                     </div>
+                                     </select>
+                                     </body>
+                                     </html>
+                               
